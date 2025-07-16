@@ -1,0 +1,27 @@
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.title {
+    margin: 0;
+
+    font-weight: 700;
+    font-size: clamp(1.5rem, -1.3125rem + 9vw, 3.75rem);
+    line-height: 123%;
+    color: #fff;
+}
+
+.text {
+    margin: 0;
+}
+
+.button {
+    font-family: "fontawesome";
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #ffd723;
+}

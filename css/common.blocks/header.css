@@ -1,0 +1,43 @@
+.header {
+    padding: 24px 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {}
+
+.logo {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo__icon {
+    width: 55px;
+    height: 35px;
+}
+
+.logo__title {
+    font-size: 30px;
+    color: white;
+}
+
+.burger_icon {
+    width: 40px;
+    height: 40px;
+}
+
+.header__burger {}
+
+.burger {}
+
+.burger__line {}

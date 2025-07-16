@@ -1,0 +1,40 @@
+.main {}
+
+.hero {
+    background: url(../../img/hero.jpg) center/ cover no-repeat;
+    min-height: 810px;
+    padding-top: 190px;
+}
+
+.hero__container {}
+
+
+.hero__content {
+    max-width: 615px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.hero__before-title {
+    margin-bottom: 22px;
+    color: white;
+}
+
+.hero__title {
+    margin-bottom: 24px;
+}
+
+.title {}
+
+.hero__text {
+    margin-bottom: 45px;
+    color: white;
+
+}
+
+.text {}
+
+.hero__button {}
+
+.button {}
