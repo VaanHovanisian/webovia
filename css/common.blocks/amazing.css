@@ -10,7 +10,7 @@
     bottom: 0;
     right: calc((100% - 1110px) / 2);
     z-index: 3;
-    width: 100%;
+    max-width: 100%;
     transform: translateY(-50%);
     min-height: 360px;
     background-color: #fafafa;
